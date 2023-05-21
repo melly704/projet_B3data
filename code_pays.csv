@@ -1,0 +1,59 @@
+﻿Country_code;country_name;region_name
+US;Etats-unis;Amerique
+ES;Espagne;Europe
+GB;Grande-Bretagne;Europe
+FR;France;Europe
+CA;Canada;Amerique
+MX;Mexique;Amerique
+BR;Brésil;Amerique
+IN;Inde;Asie
+AU;Australie;Oceanie
+NG;Nigeria;Afrique
+CZ;République tchèque;Europe
+TR;Turquie;Asie
+CL;Chili;Amerique
+PR;Porto Rico;Amerique
+FI;Finlande;Europe
+TH;Thailande;Asie
+NL;Pays-bas ;Europe
+GR;Grèce;Europe
+BO;Bolivie;Amerique
+PH;Philippines;Asie
+AX;Iles Aland;Europe
+AR;Argentine;Amerique
+BE;Belgique;Europe
+AT;Autriche;Europe
+SF;Afrique du sud;Afrique
+EG;Egypte;Afrique
+ID;Indonésie;Asie
+IT;Italie;Europe
+AE;;
+IE;Irlande;Europe
+SI;Slovénie;Europe
+MY;Malaisie;Asie
+JP;Japon;Asie
+EE;Estonie;Europe
+PK;Pakistan;Asie
+PL;Pologne;Europe
+HN;Handuras;Amerique
+CH;Ghana ;Afrique
+RU;Russie;Asie
+VN;Viêt Nam;Asie
+UA;;
+DK;Danemark;Europe
+MD;Moldavie;Europe
+LU;Luxembourg;Europe
+HR;Croatie;Europe
+MT;Haiti;Amerique
+TW;Taiwan ;Asie
+AZ;Azerbaïdjan;Asie
+DZ;Algérie;Afrique
+AF;Afghanistan;Asie
+SE;Suède;Europe
+ET;Ethiopie;Afrique
+IL;Israel;Asie
+NO;Norvège;Europe
+KG;Kirghizistan;Asie
+ZA;Afrique du sud;Afrique
+SA;;
+LT;Lesotho;Afrique
